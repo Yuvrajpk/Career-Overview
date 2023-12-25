@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpk&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajpk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yuvraj_pujary" target="blank"><img src="https://img.shields.io/twitter/follow/yuvraj_pujary?logo=twitter&style=for-the-badge" alt="yuvraj_pujary" /></a> </p>
+</a> </p>
 <hr>
 - 🔭 I’m currently working on **-> Helmet and Triple Riding Detection using YOLO v3**
 
@@ -23,7 +23,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left">
+<p align="left"> <a href="https://twitter.com/yuvraj_pujary" target="blank"><img src="https://img.shields.io/twitter/follow/yuvraj_pujary?logo=twitter&style=for-the-badge" alt="yuvraj_pujary" />
+  
 <a href="https://linkedin.com/in/www.linkedin.com/in/ yuvraj-p-756522228" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="yuvraj-p" height="50" width="50" /></a>
 <a href="https://instagram.com/_yuvraj_prince_06" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>
 </p>
