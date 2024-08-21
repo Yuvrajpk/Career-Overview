@@ -1,4 +1,4 @@
-![Blue Geometric Technology LinkedIn Banner](https://github.com/Yuvrajpk/Yuvrajpk/assets/109801714/35d70350-af02-4676-8ca2-b87e865a235b)
+![Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/3c4b0ba5-2bb8-4c83-a824-0773560b532d)
 
 <hr>
 <a align="center " href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000808&vCenter=true&width=438&height=150&lines=Hello👋 I am Yuvraj;Welcome+To+My+world🌍" alt="Typing SVG" /></a>
