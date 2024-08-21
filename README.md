@@ -1,21 +1,21 @@
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/3c4b0ba5-2bb8-4c83-a824-0773560b532d)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpk&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajpk" /> </p>
 
 <hr>
 <a align="center " href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000808&vCenter=true&width=438&height=150&lines=Hello👋 I am Yuvraj;Welcome+To+My+world🌍" alt="Typing SVG" /></a>
 <hr>
 
-<h3 align="center">I'm a highly motivated person and forward-thinking student currently pursuing my Bachelor's degree in Mangalore at St Joseph Engineering College. I'm incredibly passionate about [Blockchain Technology,Cybersecurity,Data Science,Software Development and AI], and I'm on a mission to turn my academic knowledge into real-world impact.</h3>
+<h3 align="center">I'm a highly motivated person and forward-thinking student currently pursuing my Bachelor's degree in Mangalore at St Joseph Engineering College. I'm incredibly passionate about [Blockchain Technology, Cloud Technology, Devops, Software Development and AI], and I'm on a mission to turn my academic knowledge into real-world impact.</h3>
 <hr>
 
-<img align="right" alt="c" with="400" scr="https://cdn.pixabay.com/animation/2023/01/24/10/52/10-52-12-184_512.gif">
+<img src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif" alt="" width="300" height="200" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpk&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajpk" /> </p>
 
 </a> </p>
-<hr>
-- 🔭 I’m currently working on **-> Helmet and Triple Riding Detection using YOLO v3**
 
-- 🌱 I’m currently learning **-> full stack,AIML,UI/UX design,android development**
+- 🔭 I’m currently working on **-> Deploying a bucket list tracker application on AWS AMPLIFY**
+
+- 🌱 I’m currently learning **-> AWS SOLUTION ARCHITEC AND DEVOPS**
 
 - 📫 How to reach me **-> yuvrajpujary@gmail.com**
 
