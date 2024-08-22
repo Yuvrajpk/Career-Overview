@@ -1,10 +1,8 @@
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/3c4b0ba5-2bb8-4c83-a824-0773560b532d)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpk&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajpk" /> </p>
-
 <hr>
 <a align="center " href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000808&vCenter=true&width=438&height=150&lines=Hello👋 I am Yuvraj;Welcome+To+My+GITHUB 🌍" alt="Typing SVG" /></a>
 <hr>
-
 <h3 align="center">I'm a highly motivated person and forward-thinking student currently pursuing my Bachelor's degree in Mangalore at St Joseph Engineering College. I'm incredibly passionate about [Blockchain Technology, Cloud Technology, Devops, Software Development and AI], and I'm on a mission to turn my academic knowledge into real-world impact.</h3>
 <hr>
 
@@ -31,8 +29,20 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/ yuvraj-p-756522228" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="yuvraj-p" height="50" width="50" /></a> <a href="https://instagram.com/_yuvraj_prince_06" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>
 </p>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajpk&show_icons=true&locale=en&layout=compact" alt="yuvrajpk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajpk&show_icons=true&locale=en" alt="yuvrajpk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajpk&" alt="yuvrajpk" /></p>
+<h3 align="center">⚡STATS⚡</h3>
+<br>
+<div align="center">
+<p>&nbsp;<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajpk&show_icons=true&locale=en" alt="yuvrajpk" /></p>
+<p><img width="400" align="top right" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajpk&" alt="yuvrajpk" /></p>
+<p><img width="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajpk&show_icons=true&locale=en&layout=compact" alt="yuvrajpk" /></p>
+</br>
+  <hr>
+  <p>
+  <h1>🐍 My Contributions 🐍</h1>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+</p>
+<hr/>
