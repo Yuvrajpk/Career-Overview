@@ -34,9 +34,9 @@
 # Amazon Web Services <img src="https://github.com/user-attachments/assets/bbc05f9f-ffb5-4bf8-a68f-0870532c0233" alt="" width="80" height="60" align="left">
 <div align="center">
   
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/fa4c2b35-ad87-4e23-a8c4-2bbc5dad6b8d" alt="S3" height="95" /></a> 
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/501eb709-b7e0-4b13-9f66-e20309a68dd3" alt="EC2" height="90" /></a> 
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/26ba14b8-e4c6-4b34-9bfa-a01bef9a0a5d" alt="LAMBDA" height="90" /></a> 
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/fa4c2b35-ad87-4e23-a8c4-2bbc5dad6b8d" alt="S3" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/501eb709-b7e0-4b13-9f66-e20309a68dd3" alt="EC2" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/26ba14b8-e4c6-4b34-9bfa-a01bef9a0a5d" alt="LAMBDA" height="80" /></a> 
 
 
 
