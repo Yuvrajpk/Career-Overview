@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **-> AWS SOLUTION ARCHITECT AND DEVOPS ENGINEER**
 
-- -  🚀 Explore my work and projects on my 🌐[Portfolio Website](https://yuvrajpk.github.io/Portfolio/).
+- 🚀 Explore my work and projects on my 🌐[Portfolio Website](https://yuvrajpk.github.io/Portfolio/).
 
 - 📫 How to reach me **-> yuvrajpujary@gmail.com**
 
