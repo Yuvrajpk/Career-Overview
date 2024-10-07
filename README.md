@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **-> AWS SOLUTION ARCHITECT AND DEVOPS ENGINEER**
 
-- 🚀 Explore my work and projects on my 🌐[Portfolio Website](https://yuvrajpk.github.io/Portfolio/).
+- 🚀 Explore my portfolio and projects on my 🌐[Portfolio Website](https://yuvrajpk.github.io/Portfolio/).
 
-- 📝 Explore my portfolio and projects at:[Yuvraj_Resume.pdf](https://github.com/Yuvrajpk/Yuvrajpk/blob/main/Yuvraj_Resume.pdf)
+- 📝 Know about my skills and projects : [Yuvraj_Resume.pdf](https://github.com/Yuvrajpk/Yuvrajpk/blob/main/Yuvraj_Resume.pdf)
 
 - 📫 How to reach me **-> yuvrajpujary@gmail.com**
 
-- ⚡ Fun fact **->I’m not a great programmer; I’m just a good programmer with great habits.**
+- ⚡ Fun fact **->I’m not a great person; I’m just a good person with great habits.**
 
 
 
