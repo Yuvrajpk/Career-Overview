@@ -1,9 +1,10 @@
-![Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/3c4b0ba5-2bb8-4c83-a824-0773560b532d)
+
+![Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/f4de2fdd-8a23-47e5-9e1b-a44944bf692a)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpk&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajpk" /> </p>
 <hr>
 <a align="center " href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000808&vCenter=true&width=438&height=150&lines=Hello👋 I am Yuvraj;Welcome+To+My+GITHUB 🌍" alt="Typing SVG" /></a>
 <hr>
-<h3 align="center">I'm a highly motivated person and forward-thinking student currently pursuing my Bachelor's degree in Mangalore at St Joseph Engineering College. I'm incredibly passionate about [Blockchain Technology, Cloud Technology, Devops, Software Development and AI], and I'm on a mission to turn my academic knowledge into real-world impact.</h3>
+<h3 align="center">AWS Solutions Architect and DevOps Engineer with expertise in designing scalable, secure, and cost-effective cloud architectures. Proficient in AWS services (EC2, S3, RDS, Lambda), infrastructure-as-code (Terraform, CloudFormation), and DevOps tools like Docker, Kubernetes, Jenkins, and Ansible. Experienced in optimizing CI/CD pipelines, automating deployments, and ensuring high availability and fault tolerance in cloud environments. Skilled in bridging development and operations to streamline processes, enhance collaboration, and drive continuous improvement in software delivery.</h3>
 <hr>
 
 <img src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif" alt="" width="300" height="180" align="right">
