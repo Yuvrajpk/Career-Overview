@@ -18,6 +18,8 @@
 
 - 🚀 Explore my work and projects on my 🌐[Portfolio Website](https://yuvrajpk.github.io/Portfolio/).
 
+- 📝 Explore my portfolio and projects at:Yuvraj_Resume.pdf
+
 - 📫 How to reach me **-> yuvrajpujary@gmail.com**
 
 - ⚡ Fun fact **->I’m not a great programmer; I’m just a good programmer with great habits.**
