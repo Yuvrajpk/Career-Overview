@@ -18,7 +18,7 @@
 
 - 🚀 Explore my work and projects on my 🌐[Portfolio Website](https://yuvrajpk.github.io/Portfolio/).
 
-- 📝 Explore my portfolio and projects at:Yuvraj_Resume.pdf
+- 📝 Explore my portfolio and projects at:[Yuvraj_Resume.pdf](https://github.com/Yuvrajpk/Yuvrajpk/blob/main/Yuvraj_Resume.pdf)
 
 - 📫 How to reach me **-> yuvrajpujary@gmail.com**
 
