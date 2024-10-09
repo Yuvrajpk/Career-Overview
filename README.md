@@ -1,5 +1,7 @@
 
-![Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/f4de2fdd-8a23-47e5-9e1b-a44944bf692a)
+![7569315049](https://github.com/user-attachments/assets/e5a9afd2-e0db-4185-9517-a73ce4280352)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpk&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajpk" /> </p>
 <hr>
 <a align="center " href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000808&vCenter=true&width=438&height=150&lines=Hello👋 I am Yuvraj;Welcome+To+My+GITHUB 🌍" alt="Typing SVG" /></a>
