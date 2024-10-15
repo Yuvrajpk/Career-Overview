@@ -59,30 +59,29 @@
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b91dcc2a-855e-4784-9613-f4ae09ffff5e" alt="SNS" height="80" /></a>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/0807fb92-2b7c-4256-9903-4f22f74c3e97" alt="SQS" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/5d390519-4988-4f74-9dbc-ae0e74b933b8" alt="CloudFormation" height="80" /></a>
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/65251dff-62f1-45af-80f0-7daf47afddad" alt="SES" height="80" /></a>
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/45b434c4-ac2b-4352-a21d-d4ae3a0f1312" alt="IAM" height="80" /></a>
 
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/50e627f2-11eb-49e1-8024-344939fbc514" alt="VPC" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/b9ce8e80-7830-4485-83e8-0ca1e3b46e05" alt="Route53" height="80" /></a>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c51555b9-2e1c-468d-85d2-0749d9d20c61" alt="cloudFront" height="80" /></a> 
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/fef089bc-2480-470b-931f-f55443a938d1" alt="ELB" height="80" /></a> 
-
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/65251dff-62f1-45af-80f0-7daf47afddad" alt="SES" height="80" /></a>
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/45b434c4-ac2b-4352-a21d-d4ae3a0f1312" alt="IAM" height="80" /></a>
-
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/0b440359-4985-41d3-bac4-e2068dba8c90" alt="rekognistion" height="80" /></a> 
 
 
 <h1 align="center"></h1>
 
 # Database <img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left" style="margin-right: 10px;">
-
-
-<div align="center"> 
+<div align="center">
+  
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/e1255c56-a9e7-4ae4-b19d-2b8869fb2c98" alt="DynomoDB" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/672f619e-622c-4f04-8e47-e227e7ca024a" alt="RDS" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" height="80" /></a> 
 
+<h1 align="center"></h1>
 
-
+# DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
+<div align="center">
 
 
 
