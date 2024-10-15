@@ -42,11 +42,47 @@
 <h1 align="center">🤖 Tech Suite 🤖</h1> 
 
 # Amazon Web Services <img src="https://github.com/user-attachments/assets/bbc05f9f-ffb5-4bf8-a68f-0870532c0233" alt="" width="80" height="60" align="left">
-<div align="center">
+
+<div align="center"> 
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b4e79422-c183-429e-8f47-aa9a6aa67191" alt="S3" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/3e7fcce2-3221-45a1-b7f0-509f82814868" alt="EBS" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/90fda689-072d-48dc-aac7-2436f408e6e0" alt="budgets" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/aef36647-e27b-46e5-97f7-1643cb6facb3" alt="EC2" height="80" /></a>
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/cef2ce01-9a93-4826-bd74-c1245d434700" alt="LAMBDA" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/0930c745-18e3-4727-963e-1a2435f3dd8e" alt="EKS" height="80" /></a>
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/8adb1954-234f-4eb4-a336-e280a9a5ebdb" alt="EKS Cloud" height="80" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/8cbf4a41-f1c0-461f-a918-99abd4216b6d" alt="Elastic Beanstalk" height="80" /></a> 
   
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/fa4c2b35-ad87-4e23-a8c4-2bbc5dad6b8d" alt="S3" height="80" /></a> 
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/501eb709-b7e0-4b13-9f66-e20309a68dd3" alt="EC2" height="80" /></a> 
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/26ba14b8-e4c6-4b34-9bfa-a01bef9a0a5d" alt="LAMBDA" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/2405941d-1bc1-425d-a8ea-2b1b69a2ed1b" alt="cloudTrail" height="80" /></a>
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/247ee6de-a721-41e1-8d8e-c870a9638e2c" alt="Auto Scaling" height="80" /></a>
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/9a4df499-75d3-4afc-88e0-282f2b1e33c2" alt="cloudWatch" height="80" /></a>
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b91dcc2a-855e-4784-9613-f4ae09ffff5e" alt="SNS" height="80" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/0807fb92-2b7c-4256-9903-4f22f74c3e97" alt="SQS" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/5d390519-4988-4f74-9dbc-ae0e74b933b8" alt="CloudFormation" height="80" /></a>
+
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/50e627f2-11eb-49e1-8024-344939fbc514" alt="VPC" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/b9ce8e80-7830-4485-83e8-0ca1e3b46e05" alt="Route53" height="80" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c51555b9-2e1c-468d-85d2-0749d9d20c61" alt="cloudFront" height="80" /></a> 
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/fef089bc-2480-470b-931f-f55443a938d1" alt="ELB" height="80" /></a> 
+
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/65251dff-62f1-45af-80f0-7daf47afddad" alt="SES" height="80" /></a>
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/45b434c4-ac2b-4352-a21d-d4ae3a0f1312" alt="IAM" height="80" /></a>
+
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/0b440359-4985-41d3-bac4-e2068dba8c90" alt="rekognistion" height="80" /></a> 
+
+
+<h1 align="center"></h1>
+
+# Database <img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left" style="margin-right: 10px;">
+
+
+<div align="center"> 
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/e1255c56-a9e7-4ae4-b19d-2b8869fb2c98" alt="DynomoDB" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/672f619e-622c-4f04-8e47-e227e7ca024a" alt="RDS" height="80" /></a>
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" height="80" /></a> 
+
+
+
 
 
 
