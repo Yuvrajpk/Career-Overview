@@ -44,6 +44,7 @@
 # Amazon Web Services <img src="https://github.com/user-attachments/assets/bbc05f9f-ffb5-4bf8-a68f-0870532c0233" alt="" width="80" height="60" align="left">
 
 <div align="center"> 
+  <hr>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b4e79422-c183-429e-8f47-aa9a6aa67191" alt="S3" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/3e7fcce2-3221-45a1-b7f0-509f82814868" alt="EBS" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/90fda689-072d-48dc-aac7-2436f408e6e0" alt="budgets" height="80" /></a> 
@@ -71,20 +72,28 @@
 
 <h1 align="center"></h1>
 
-# Database <img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left" style="margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left" style="margin-right: 10px;"> 
+
+# Database
+
+
 <div align="center">
-  
+  <hr>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/e1255c56-a9e7-4ae4-b19d-2b8869fb2c98" alt="DynomoDB" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/672f619e-622c-4f04-8e47-e227e7ca024a" alt="RDS" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" height="80" /></a> 
 
+</div>
+</td><td valign="top" width="33%">
+  
 <h1 align="center"></h1>
 
 # DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
 <div align="center">
+<hr>
 
-
-
+</div>
+</td><td valign="top" width="33%">
 
 
 
@@ -94,8 +103,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jeffjiang.vercel.app/)
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+<a href="https://yuvrajpk.github.io/Portfolio/" target="blank"><img align="left" src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" height="55" width="55" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ yuvraj-p-756522228" target="blank"><img align="left" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="yuvraj-p" height="50" width="50" /></a>
-  <a href="https://instagram.com/_yuvraj_prince_06" target="blank"><img align="left" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>
+  <a href="https://instagram.com/_yuvraj_prince_06" target="blank"><img align="left" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>  
 </p>
 <br>
 <br>
