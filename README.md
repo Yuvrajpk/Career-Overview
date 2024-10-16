@@ -72,11 +72,11 @@
   
 # Database <img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left"> 
 <div align="center">
-<a href="" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="C++" height="50" /></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/e1255c56-a9e7-4ae4-b19d-2b8869fb2c98" alt="DynomoDB" height="80" /></a> 
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/672f619e-622c-4f04-8e47-e227e7ca024a" alt="RDS" height="80" /></a>
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" height="80" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres," alt="C++" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://skillicons.dev/icons?i=mysql" alt="C++"/></a>
+<a href="https://aws.amazon.com/pm/dynamodb/?gclid=Cj0KCQjwyL24BhCtARIsALo0fSClq0ZAI_MmOvnqsEXswU0WQfmegqvUf2jvTUtBm6Yi2n7GKhs4Pw0aAn90EALw_wcB&trk=1e5631f8-a3e1-45eb-8587-22803d0da70e&sc_channel=ps&ef_id=Cj0KCQjwyL24BhCtARIsALo0fSClq0ZAI_MmOvnqsEXswU0WQfmegqvUf2jvTUtBm6Yi2n7GKhs4Pw0aAn90EALw_wcB:G:s&s_kwcid=AL!4422!3!536393613268!e!!g!!dynamodb!11539699824!109299643181" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/e1255c56-a9e7-4ae4-b19d-2b8869fb2c98" alt="DynomoDB"  /></a> 
+<a href="https://aws.amazon.com/rds/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/672f619e-622c-4f04-8e47-e227e7ca024a" alt="RDS"/></a>
+<a href="https://aws.amazon.com/rds/aurora/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" /></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://skillicons.dev/icons?i=postgres," alt="C++"/></a>
 
 </div>
 </td><td valign="top" width="33%">
@@ -87,21 +87,18 @@
 ## DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
 <div align="center">
 
-<a href="https://aws.amazon.com/s3/" target="_blank"> <img style="margin: 10px; height: 60px; width: auto;" src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Docker" /></a> 
-<a href="https://aws.amazon.com/s3/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" /></a> 
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="kubernetes" height="80" /></a>
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000" alt="Ansible" height="80" /></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="jenkins" /></a> 
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"> <img style="margin: 10px; height: 40px; width: auto;" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" alt="puppet" /></a>
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" alt="Arora" height="80" /></a>
+<a href="https://www.terraform.io/" target="_blank"> <img style="margin: 10px; height: 60px; width: auto;" src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Terraform" /></a> 
+<a href="https://www.docker.com/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" /></a> 
+<a href="https://kubernetes.io/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="kubernetes" /></a>
+<a href="https://www.ansible.com/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000" alt="Ansible" /></a>
+<a href="https://www.jenkins.io/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="jenkins" /></a> 
+<a href="https://www.puppet.com/" target="_blank"> <img style="margin: 10px; height: 40px; width: auto;" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" alt="puppet" /></a>
+<a href="https://www.nagios.org/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" alt="Nagios" /></a>
 
 </div>
 </td><td valign="top" width="33%">
 
-
-
 <hr>
-
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jeffjiang.vercel.app/)
 <h2 align="left">Connect with me:</h2>
