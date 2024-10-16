@@ -41,7 +41,7 @@
 
 <h1 align="center">🤖 Tech Suite 🤖</h1> 
 
-# Amazon Web Services <img src="https://github.com/user-attachments/assets/bbc05f9f-ffb5-4bf8-a68f-0870532c0233" alt="" width="80" height="60" align="left">
+## Amazon Web Services <img src="https://github.com/user-attachments/assets/bbc05f9f-ffb5-4bf8-a68f-0870532c0233" alt="" width="80" height="60" align="left">
 
 <div align="center"> 
   <hr>
@@ -69,28 +69,34 @@
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/fef089bc-2480-470b-931f-f55443a938d1" alt="ELB" height="80" /></a> 
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/0b440359-4985-41d3-bac4-e2068dba8c90" alt="rekognistion" height="80" /></a> 
 
-
-<h1 align="center"></h1>
-
-<img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left" style="margin-right: 10px;"> 
-
-# Database
-
-
+<br>
+<div align="center"> 
+<hr>
+  
+# Database <img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left"> 
 <div align="center">
-  <hr>
+  
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/e1255c56-a9e7-4ae4-b19d-2b8869fb2c98" alt="DynomoDB" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/672f619e-622c-4f04-8e47-e227e7ca024a" alt="RDS" height="80" /></a>
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" height="80" /></a> 
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" height="80" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql,postgres," alt="C++" height="50" /></a>
 
 </div>
 </td><td valign="top" width="33%">
   
-<h1 align="center"></h1>
-
-# DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
-<div align="center">
+<br>
 <hr>
+
+## DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
+<div align="center">
+
+
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" height="90" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="kubernetes" height="80" /></a>
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000" alt="Ansible" height="80" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="jenkins" height="90" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" alt="puppet" height="50" /></a>
+<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" alt="Arora" height="80" /></a>
 
 </div>
 </td><td valign="top" width="33%">
