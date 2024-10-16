@@ -36,15 +36,13 @@
 
 
 <hr>
-
-
-
 <h1 align="center">🤖 Tech Suite 🤖</h1> 
+<hr>
 
 ## Amazon Web Services <img src="https://github.com/user-attachments/assets/bbc05f9f-ffb5-4bf8-a68f-0870532c0233" alt="" width="80" height="60" align="left">
 
 <div align="center"> 
-  <hr>
+  
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b4e79422-c183-429e-8f47-aa9a6aa67191" alt="S3" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/3e7fcce2-3221-45a1-b7f0-509f82814868" alt="EBS" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/90fda689-072d-48dc-aac7-2436f408e6e0" alt="budgets" height="80" /></a> 
@@ -53,8 +51,7 @@
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/0930c745-18e3-4727-963e-1a2435f3dd8e" alt="EKS" height="80" /></a>
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/8adb1954-234f-4eb4-a336-e280a9a5ebdb" alt="EKS Cloud" height="80" /></a>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/8cbf4a41-f1c0-461f-a918-99abd4216b6d" alt="Elastic Beanstalk" height="80" /></a> 
-  
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/2405941d-1bc1-425d-a8ea-2b1b69a2ed1b" alt="cloudTrail" height="80" /></a>
+  <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/2405941d-1bc1-425d-a8ea-2b1b69a2ed1b" alt="cloudTrail" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/247ee6de-a721-41e1-8d8e-c870a9638e2c" alt="Auto Scaling" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/9a4df499-75d3-4afc-88e0-282f2b1e33c2" alt="cloudWatch" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b91dcc2a-855e-4784-9613-f4ae09ffff5e" alt="SNS" height="80" /></a>
@@ -75,11 +72,11 @@
   
 # Database <img src="https://github.com/user-attachments/assets/83aa1207-a692-453c-bf49-1ee8fd7d61b8" alt="" width="80" height="70" align="left"> 
 <div align="center">
-  
+<a href="" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="C++" height="50" /></a>
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/e1255c56-a9e7-4ae4-b19d-2b8869fb2c98" alt="DynomoDB" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/672f619e-622c-4f04-8e47-e227e7ca024a" alt="RDS" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/c84485d3-3dfc-494c-b990-2aa6dd933fbb" alt="Arora" height="80" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql,postgres," alt="C++" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres," alt="C++" height="50" /></a>
 
 </div>
 </td><td valign="top" width="33%">
@@ -90,12 +87,12 @@
 ## DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
 <div align="center">
 
-
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" height="90" /></a> 
+<a href="https://aws.amazon.com/s3/" target="_blank"> <img style="margin: 10px; height: 60px; width: auto;" src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Docker" /></a> 
+<a href="https://aws.amazon.com/s3/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" /></a> 
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="kubernetes" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000" alt="Ansible" height="80" /></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="jenkins" height="90" /></a> 
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" alt="puppet" height="50" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="jenkins" /></a> 
+<a href="https://aws.amazon.com/pm/ec2/" target="_blank"> <img style="margin: 10px; height: 40px; width: auto;" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" alt="puppet" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" alt="Arora" height="80" /></a>
 
 </div>
