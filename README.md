@@ -44,20 +44,31 @@
 <div align="center"> 
   
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b4e79422-c183-429e-8f47-aa9a6aa67191" alt="S3" height="80" /></a> 
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/3e7fcce2-3221-45a1-b7f0-509f82814868" alt="EBS" height="80" /></a> 
-<a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/90fda689-072d-48dc-aac7-2436f408e6e0" alt="budgets" height="80" /></a> 
+<a href="https://aws.amazon.com/ebs/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/3e7fcce2-3221-45a1-b7f0-509f82814868" alt="EBS" height="80" /></a> 
+<a href="https://aws.amazon.com/aws-cost-management/aws-budgets/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/90fda689-072d-48dc-aac7-2436f408e6e0" alt="budgets" height="80" /></a> 
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/aef36647-e27b-46e5-97f7-1643cb6facb3" alt="EC2" height="80" /></a>
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/cef2ce01-9a93-4826-bd74-c1245d434700" alt="LAMBDA" height="80" /></a> 
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/0930c745-18e3-4727-963e-1a2435f3dd8e" alt="EKS" height="80" /></a>
-<a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/8adb1954-234f-4eb4-a336-e280a9a5ebdb" alt="EKS Cloud" height="80" /></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/8cbf4a41-f1c0-461f-a918-99abd4216b6d" alt="Elastic Beanstalk" height="80" /></a> 
+
+<a href="https://aws.amazon.com/eks/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/0930c745-18e3-4727-963e-1a2435f3dd8e" alt="EKS" height="80" /></a>
+
+<a href="https://aws.amazon.com/eks/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/8adb1954-234f-4eb4-a336-e280a9a5ebdb" alt="EKS Cloud" height="80" /></a>
+
+<a href="" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/8cbf4a41-f1c0-461f-a918-99abd4216b6d" alt="Elastic Beanstalk" height="80" /></a> 
+
   <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/2405941d-1bc1-425d-a8ea-2b1b69a2ed1b" alt="cloudTrail" height="80" /></a>
+  
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/247ee6de-a721-41e1-8d8e-c870a9638e2c" alt="Auto Scaling" height="80" /></a>
+
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/9a4df499-75d3-4afc-88e0-282f2b1e33c2" alt="cloudWatch" height="80" /></a>
+
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b91dcc2a-855e-4784-9613-f4ae09ffff5e" alt="SNS" height="80" /></a>
+
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/0807fb92-2b7c-4256-9903-4f22f74c3e97" alt="SQS" height="80" /></a> 
+
 <a href="https://aws.amazon.com/pm/lambda/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/5d390519-4988-4f74-9dbc-ae0e74b933b8" alt="CloudFormation" height="80" /></a>
+
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/65251dff-62f1-45af-80f0-7daf47afddad" alt="SES" height="80" /></a>
+
 <a href="https://aws.amazon.com/pm/ec2/" target="_blank"><img style="margin: 10px;height:50px;" src="https://github.com/user-attachments/assets/45b434c4-ac2b-4352-a21d-d4ae3a0f1312" alt="IAM" height="80" /></a>
 
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/50e627f2-11eb-49e1-8024-344939fbc514" alt="VPC" height="80" /></a> 
