@@ -95,6 +95,7 @@
 <a href="https://www.jenkins.io/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="jenkins" /></a> 
 <a href="https://www.puppet.com/" target="_blank"> <img style="margin: 10px; height: 40px; width: auto;" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" alt="puppet" /></a>
 <a href="https://www.nagios.org/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" alt="Nagios" /></a>
+<a href="https://www.chef.io/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://e7.pngegg.com/pngimages/507/600/png-clipart-chef-test-automation-devops-infrastructure-as-code-couchbase-server-orange-logo.png" alt="Chef" /></a>
 
 </div>
 </td><td valign="top" width="33%">
