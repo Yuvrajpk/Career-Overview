@@ -39,10 +39,11 @@
 <hr>
 <h1 align="center">🤖 Tech Suite 🤖</h1> 
 <hr>
-
+<div align="center">
+ 
 ## Amazon Web Services <img src="https://github.com/user-attachments/assets/bbc05f9f-ffb5-4bf8-a68f-0870532c0233" alt="" width="80" height="60" align="left">
 
-<div align="center"> 
+ 
   
 <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/b4e79422-c183-429e-8f47-aa9a6aa67191" alt="S3" height="80" /></a> 
 <a href="https://aws.amazon.com/ebs/" target="_blank"><img style="margin: 10px;height: 50px;" src="https://github.com/user-attachments/assets/3e7fcce2-3221-45a1-b7f0-509f82814868" alt="EBS" height="80" /></a> 
@@ -84,9 +85,10 @@
   
 <br>
 <hr>
-
-## DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
 <div align="center">
+ 
+## DevOps <img src="https://github.com/user-attachments/assets/63a1329c-aad9-45f1-893f-5d31e1ce320d" alt="" width="80" height="70" align="left">
+
 
 <a href="https://www.terraform.io/" target="_blank"> <img style="margin: 10px; height: 60px; width: auto;" src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Terraform" /></a> 
 <a href="https://www.docker.com/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" /></a> 
@@ -94,13 +96,29 @@
 <a href="https://www.ansible.com/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000" alt="Ansible" /></a>
 <a href="https://www.jenkins.io/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="jenkins" /></a> 
 <a href="https://www.puppet.com/" target="_blank"> <img style="margin: 10px; height: 40px; width: auto;" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" alt="puppet" /></a>
-<a href="https://www.nagios.org/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" alt="Nagios" /></a>
-<a href="https://www.chef.io/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://e7.pngegg.com/pngimages/507/600/png-clipart-chef-test-automation-devops-infrastructure-as-code-couchbase-server-orange-logo.png" alt="Chef" /></a>
+<a href="https://www.nagios.org/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/6ffe3c21-583c-482e-aadd-5c2940885adc" alt="Nagios" /></a>
+<a href="https://www.chef.io/" target="_blank"> <img style="margin: 10px; height:60px; width: auto;" src="https://github.com/user-attachments/assets/efdb6f7b-982b-4ec2-b354-a414a0b27c44" alt="Chef" /></a>
 
 </div>
 </td><td valign="top" width="33%">
 
 <hr>
+<div align="center"> 
+
+  
+# Command-Line Proficiency <img src="https://github.com/user-attachments/assets/245dc884-a187-4edb-a507-9193d2dda960" alt="" width="80" height="70" align="left"> 
+<div align="center">
+<a href="https://www.linux.org/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/be8b5cbe-a217-4d75-8ee1-92edaaedb7fa" alt="linux"/></a>
+<a href="https://design.ubuntu.com/brand" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/e03a1b68-78ad-400b-88e1-27a3648bf641" alt="ubuntu"  /></a> 
+<a href="" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/b53c3d31-a81b-414f-8d37-4a806845dcd6" alt="bash"/></a>
+<a href="https://www.java.com/en/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/6d699957-a4a3-42b5-9b89-70aa56c36500" alt="java" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px; height: 50px; width: auto;" src="https://github.com/user-attachments/assets/0a8ebb54-1964-4080-948b-fb3f6c42e925" alt="git"/></a>
+
+</div>
+</td><td valign="top" width="33%">
+
+<hr>
+<br>
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jeffjiang.vercel.app/)
 <h2 align="left">Connect with me:</h2>
