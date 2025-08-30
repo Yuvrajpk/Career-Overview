@@ -28,7 +28,6 @@ College With a strong passion for AIIMI and cloud technologies, I
 am eager to begin my professional journey as a Cloud Engineer
 or AI Engineer.</h3>
 <hr></h3>
-<hr>
 
 <img src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif" alt="" width="300" height="180" align="right">
 
