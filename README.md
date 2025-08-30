@@ -22,11 +22,13 @@ College With a strong passion for AI/MI and cloud technologies, I
 am eager to begin my professional journey as a Cloud Engineer
 or AI Engineer.</h3>
 
-<h3 align="center">I am Yuvraj Pujary, a recent graduate with a Bachelor of
-Engineering in Computer Science from St. Joseph Engineering
-College With a strong passion for AIIMI and cloud technologies, I
-am eager to begin my professional journey as a Cloud Engineer
-or AI Engineer.</h3>
+<h3 align="center">In addition to my academic and cloud-focused training, I have
+nearly 1 year of professional experience working at HAN Digital
+Solutions Pvt.Ltd, Bangalore as a data Annotatore. This role
+enhanced my attention to detail, problem-solving skills, and
+ability to work with large datasets, which believe will further
+strengthen my capabilities in cloud computing and AI solution
+design.</h3>
 <hr></h3>
 
 <img src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif" alt="" width="300" height="180" align="right">
