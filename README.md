@@ -16,7 +16,18 @@
 
 
 <hr>
-<h3 align="center">AWS Solutions Architect and DevOps Engineer with expertise in designing scalable, secure, and cost-effective cloud architectures. Proficient in AWS services (EC2, S3, RDS, Lambda), infrastructure-as-code (Terraform, CloudFormation), and DevOps tools like Docker, Kubernetes, Jenkins, and Ansible. Experienced in optimizing CI/CD pipelines, automating deployments, and ensuring high availability and fault tolerance in cloud environments. Skilled in bridging development and operations to streamline processes, enhance collaboration, and drive continuous improvement in software delivery.</h3>
+<h3 align="center">I am Yuvraj Pujary, a recent graduate with a Bachelor of
+Engineering in Computer Science from St. Joseph Engineering
+College With a strong passion for AI/MI and cloud technologies, I
+am eager to begin my professional journey as a Cloud Engineer
+or AI Engineer.</h3>
+
+<h3 align="center">I am Yuvraj Pujary, a recent graduate with a Bachelor of
+Engineering in Computer Science from St. Joseph Engineering
+College With a strong passion for AIIMI and cloud technologies, I
+am eager to begin my professional journey as a Cloud Engineer
+or AI Engineer.</h3>
+<hr></h3>
 <hr>
 
 <img src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif" alt="" width="300" height="180" align="right">
