@@ -21,7 +21,7 @@
 
 - 🚀 Explore my portfolio and projects on my 🌐[Portfolio Website](https://yuvrajpk.github.io/Portfolio/).
 
-- 📝 Know about my skills and projects : [Yuvraj_Resume.pdf](https://github.com/user-attachments/files/17605960/Resume_Yuvraj.pdf)
+- 📝 Know about my skills and projects : [Yuvraj_Resume.pdf](https://github.com/user-attachments/files/17605960/Yuvraj_resume.pdf)
  
 - 📫 How to reach me **-> yuvrajpujary@gmail.com**
 
