@@ -5,7 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajpk&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajpk" /> </p>
 <hr>
-<a align="center " href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000808&vCenter=true&width=438&height=150&lines=Hello👋 I am Yuvraj;Welcome+To+My+GITHUB 🌍" alt="Typing SVG" /></a>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I+am+Yuvraj+%F0%9F%98%8A%F0%9F%91%8B;Welcome+to+my+GitHub+World+%F0%9F%8C%8D" alt="Typing SVG — Yuvraj greeting" />
+  </a>
+</div>
+
+
+
+
 <hr>
 <h3 align="center">AWS Solutions Architect and DevOps Engineer with expertise in designing scalable, secure, and cost-effective cloud architectures. Proficient in AWS services (EC2, S3, RDS, Lambda), infrastructure-as-code (Terraform, CloudFormation), and DevOps tools like Docker, Kubernetes, Jenkins, and Ansible. Experienced in optimizing CI/CD pipelines, automating deployments, and ensuring high availability and fault tolerance in cloud environments. Skilled in bridging development and operations to streamline processes, enhance collaboration, and drive continuous improvement in software delivery.</h3>
 <hr>
